@@ -1,0 +1,6 @@
+basic.show_string("my name is:")
+basic.show_string("JuanPa")
+basic.show_string("My Age Is:")
+basic.show_number(16)
+basic.show_string("Favorite Color:")
+basic.show_string("Green")
